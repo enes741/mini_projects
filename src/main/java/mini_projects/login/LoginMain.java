@@ -15,7 +15,6 @@ public class LoginMain {
              kullanici adi.email ile ayni indekste kayitli sifre dogrilanirsa siteue giris yapilir
 
              email validation: bosluk icermemeli
-             @ocermeli
              gmail.com hotmail.com veya yahoo.cpm ile bitmeli
              mailin kullanici adi kisminda @den once veya sadece buyuk kucuk harf rakam yada -._gibi sembolleri alabilir
 
